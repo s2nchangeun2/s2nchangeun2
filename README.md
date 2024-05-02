@@ -13,8 +13,5 @@
 
 # Stats
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=s2nchangeun2&theme=transparent)
-<img src="https://raw.githubusercontent.com/s2nchangeun2/github-stats-transparent/output/generated/languages.svg" gh-dark-mode-only/>
-<img src="https://raw.githubusercontent.com/s2nchangeun2/github-stats-transparent/output/generated/overview.svg" gh-dark-mode-only/>
 
-
-![](https://raw.githubusercontent.com/username/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s2nchangeun2&layout=compact&theme=transparent" /> <img src="https://raw.githubusercontent.com/s2nchangeun2/github-stats-transparent/output/generated/overview.svg" gh-dark-mode-only/>
